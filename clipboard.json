@@ -1,0 +1,1 @@
+{"lol": "if len(sys.argv) == 2:\r\n", "test": "            print(\"Data copied to clipboard\")\r\n"}
